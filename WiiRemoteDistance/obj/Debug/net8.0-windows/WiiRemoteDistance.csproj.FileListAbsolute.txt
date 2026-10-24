@@ -1,5 +1,0 @@
-C:\Users\theni\source\repos\WiiRemoteDistance\obj\Debug\net8.0-windows\WiiRemoteDistance.csproj.AssemblyReference.cache
-C:\Users\theni\source\repos\WiiRemoteDistance\obj\Debug\net8.0-windows\WiiRemoteDistance.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\theni\source\repos\WiiRemoteDistance\obj\Debug\net8.0-windows\WiiRemoteDistance.AssemblyInfoInputs.cache
-C:\Users\theni\source\repos\WiiRemoteDistance\obj\Debug\net8.0-windows\WiiRemoteDistance.AssemblyInfo.cs
-C:\Users\theni\source\repos\WiiRemoteDistance\obj\Debug\net8.0-windows\WiiRemoteDistance.csproj.CoreCompileInputs.cache
