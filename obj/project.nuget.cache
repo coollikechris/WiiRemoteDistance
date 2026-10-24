@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UH9lgUuRES4=",
+  "success": true,
+  "projectFilePath": "E:\\Desktop\\WiiRemoteDistance\\WiiRemoteDistance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theni\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\theni\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "C:\\Users\\theni\\.nuget\\packages\\wiimotelib\\1.7.0\\wiimotelib.1.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
